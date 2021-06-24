@@ -1,6 +1,5 @@
 # Quasar App (nubank-clone)
-
-A Quasar Framework app
+Quasar Framework app
 
 ## Install the dependencies
 ```bash
